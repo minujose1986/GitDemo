@@ -30,6 +30,8 @@ public class SelIntroduction  {
 		    driver.get("https://jobpostings.alberta.ca/");
 		    System.out.println(driver.getTitle());
 		    System.out.println(driver.getCurrentUrl());
+		    System.out.println("minu");
+		    System.out.println("anu");
 		    driver.close();
 		   // driver.quit();		      
 		     //This syntax creates memory allocation for the object created.
